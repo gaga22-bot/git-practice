@@ -1,0 +1,4 @@
+# Ignore unnecessary files
+file_list.txt
+*.log
+
