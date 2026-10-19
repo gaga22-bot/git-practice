@@ -1,0 +1,8 @@
+Git Study Notes
+
+git init: Initialize a repository
+git status: Check repository status
+git add: Stage files
+git commit: Save changes
+git log: View commit history
+git push: Upload commits to GitHub
